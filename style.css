@@ -1,0 +1,21 @@
+table{
+  position: absolute;
+  left:50%;
+  transform: translateX(-50%);
+  font-family:arial;
+  width:250px;
+  text-align: center;
+  color:blueviolet
+}
+caption{
+  font-weight: bold;
+  color:brown;
+  font-size: 20px;
+}
+thead{
+  font-weight:bold;
+  color:green;
+}
+.tableleft{
+  text-align:left;
+}
