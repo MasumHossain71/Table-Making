@@ -1,7 +1,5 @@
 table{
-  position: absolute;
-  left:50%;
-  transform: translateX(-50%);
+  margin: 30px auto;
   font-family:arial;
   width:250px;
   text-align: center;
